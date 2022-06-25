@@ -8,8 +8,8 @@ subtitle: to record my reflections on study and experience in the way to college
 description: This is the meta description for this page and will help it appear in search engines
 toc: true
 image: /img/bowen.jpg
-hero_image: /path/to/hero-image.jpg
-hero_height: is-fullheight
+# hero_image: /path/to/hero-image.jpg
+# hero_height: is-fullheight
 
 ---
 
