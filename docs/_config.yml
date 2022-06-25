@@ -36,11 +36,23 @@ plugins:
 - github-pages
 
 
-show_sidebar: true
+# show_sidebar: true
 # menubar: menu
 
 paginate: 5
 paginate_path: "/blog/page:num"
+
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      author: "Bowen Shi"
+      layout: post
+      hero_image: /path/to/hero-image.jpg
+      show_sidebar: true
 
 
 # Exclude from processing.
