@@ -10,7 +10,5 @@ toc: true
 image: /img/bowen.jpg
 # hero_image: /path/to/hero-image.jpg
 # hero_height: is-fullheight
-
 ---
-
 Here is the recent updated contents!
