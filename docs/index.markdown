@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: The page title
-subtitle: The page subtitle
+title: My Personal Home page
+subtitle: ---
 description: This is the meta description for this page and will help it appear in search engines
 image: /img/page-image.jpg
 
