@@ -1,5 +1,5 @@
 layout: post
-title: The Blog Post Title
-subtitle: The blog post subtitle
+title: Study Plan of 2022 Summer Holiday
+subtitle: 
 hero_image: /img/image.jpg
 hero_darken: true
