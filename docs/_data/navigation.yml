@@ -1,13 +1,13 @@
 - name: Blog
   link: /blog/blog.html
 - name: Harvard Summer School
-  link: HSC
+  link: HSC.html
 - name: BPhO
   link: BPhO.html
 - name: Research
-  link: Research
+  link: Research.html
 - name: CTB
-  link: CTB
+  link: CTB.html
  
  
  # dropdown: 
