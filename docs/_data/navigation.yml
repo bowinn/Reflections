@@ -1,3 +1,5 @@
+- name: Blog
+  link: /blog/blog.html
 - name: Harvard Summer School
   link: HSC
 - name: BPhO
