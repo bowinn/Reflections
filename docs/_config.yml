@@ -36,7 +36,7 @@ plugins:
 - github-pages
 
 
-# show_sidebar: true
+ show_sidebar: true
 # menubar: menu
 
 paginate: 5
